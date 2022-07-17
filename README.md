@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DivyeshPatro
-- 👀 I’m interested in Bug Boumnty/Ethical hacking
+- 👀 I’m interested in Bug Bounty/Ethical hacking
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on Bug Bounty
 - 📫 How to reach me linkedin-https://www.linkedin.com/in/divyesh-patro-3a4b85161/
