@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @DivyeshPatro
-- 👀 I’m interested in Bug Bounty/Ethical hacking
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on Bug Bounty
-- 📫 How to reach me linkedin-https://www.linkedin.com/in/divyesh-patro-3a4b85161/
+## ⚡ TL;DR
+
+> I'm a cyber-curious automation tester diving deep into ethical hacking, building tools, and breaking stuff (ethically) to learn how it works. 😎⚔️
+> 💻 Debugging the Matrix | 🧠 Hacking brains & bank logic  
+> 🔍 Find. Exploit. Report. Repeat.  
+> 🧑‍🚀 Surviving one CVE at a time
+
+
+👨‍💻 Ethical Hacker | 🛡️ Blue Teamer | 🐞 Bug Bounty Hunter  
+🧠 Learning Red + Blue = 💜 Purple Skills  
+🐍 Python • 🕵️ OSINT • 🔎 Threat Hunting • ⚙️ Automation  
+🧪 QA turned CyberWarrior | Exploring Fintech ⚔️ Logic  
+📟 Breaking things (legally) to build them better  
+🚀 Projects @ the intersection of code & chaos  
+📬 Connect → [Divyesh Patro](https://www.linkedin.com/in/divyesh-patro-3a4b85161/)
+
 
 <!---
 DivyeshPatro/DivyeshPatro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
